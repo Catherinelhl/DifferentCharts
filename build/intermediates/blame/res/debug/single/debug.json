@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/build/intermediates/res/merged/debug/drawable-xhdpi_icon.png.flat",
+        "source": "/Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/build/intermediates/res/merged/debug/drawable-xxhdpi_icon.png.flat",
+        "source": "/Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/res/drawable-mdpi/icon.png"
+    }
+]

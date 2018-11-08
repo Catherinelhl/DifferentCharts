@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:3:11-64
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:4:11-34
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:5:5-77
+	android:glEsVersion
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:5:19-51
+	android:required
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:5:52-75
+application
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:6:5-20:19
+	android:label
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:8:18-49
+	android:icon
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:6:18-47
+	android:allowBackup
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:9:18-45
+	android:theme
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:10:18-71
+	android:logo
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:7:18-47
+activity#com.nulana.nchart3d.example.DifferentCharts.ChartingDemoActivity
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:11:9-19:20
+	android:label
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:12:19-50
+	android:launchMode
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:13:19-50
+	android:configChanges
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:14:19-54
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:11:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
+		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml

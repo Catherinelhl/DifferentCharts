@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Nov 08 14:07:27 CST 2018
+#Thu Nov 08 15:20:02 CST 2018
 1.base=/Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/build/intermediates/transforms/stripDebugSymbol/debug/0
 2.path=classes.dex
 0.baseType=DIRECTORY

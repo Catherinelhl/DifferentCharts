@@ -14,6 +14,7 @@
 
     <application
         android:allowBackup="false"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
         android:debuggable="true"
         android:icon="@drawable/icon"
         android:label="DifferentCharts"
@@ -21,7 +22,7 @@
         android:testOnly="true"
         android:theme="@android:style/Theme.Black.NoTitleBar" >
         <activity
-            android:name="com.nulana.nchart3d.example.DifferentCharts.ChartingDemoActivity"
+            android:name="com.nulana.nchart3d.example.activity.MainActivity"
             android:configChanges="orientation"
             android:label="DifferentCharts"
             android:launchMode="singleTask" >
@@ -31,6 +32,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.nulana.nchart3d.example.activity.ChartingActivity" />
     </application>
 
 </manifest>

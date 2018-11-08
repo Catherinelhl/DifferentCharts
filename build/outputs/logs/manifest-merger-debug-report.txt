@@ -1,68 +1,150 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/8223059d5943ce21e1afa250307005f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/14c324bc4b7fe7b498a3be211bbf2a30/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7cc9f0096c77762934f4d62877b24b00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/76f595d8dd8744dabdb97bb265a5300b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9d25c14f1d0b2db21f74340c3b224090/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/188890ae8db2998c79bee99653cb9fd3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/108c322f3b30e9f2a0cb53468af9e733/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/684849fd9310b5441dd02a91a84dc881/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a48d3918aa244f1f4dede9024779cb6b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e902739081a1ce469c3401c6196241ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/830cac2663141d709cb5eeb594f62f6a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2152259540ec281eed32c35bebc0ae6e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/be0e6a1e0abfe2c24058d689bf11f927/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ff65bdbbf83477715fb2ddc230e76c68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f376f8b981c882945cc14097628c9de7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/df25b3ccb7bcfb068bb3abfe284100e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c48dd2c4835a5ce913717eb6e9bb97c1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/af23971ee451284f397b19d82ea4acb9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9f2fd5fdfaca4cee01d11e7f574de86b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b2211a37f07d2f07f6186090bbc85aa0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1646b007c860433ac0d6180149038d41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c391a2e0f7d3cd17c264f321a5a9c364/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3db9f74611db0386860a364a7560be2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4db36bf8c1a1da22634cd4635a3c1055/AndroidManifest.xml:17:1-25:12
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-27:12
 	package
-		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:3:11-64
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:3:5-58
 		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
 		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
-		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:1-27:12
 		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:4:11-34
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:4:5-28
 		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
 		INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
 uses-feature#0x00020000
-ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:5:5-77
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:6:5-8:35
 	android:glEsVersion
-		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:5:19-51
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:7:9-41
 	android:required
-		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:5:52-75
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:8:9-32
 application
-ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:6:5-20:19
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:9:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c391a2e0f7d3cd17c264f321a5a9c364/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c391a2e0f7d3cd17c264f321a5a9c364/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4db36bf8c1a1da22634cd4635a3c1055/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4db36bf8c1a1da22634cd4635a3c1055/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c391a2e0f7d3cd17c264f321a5a9c364/AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:8:18-49
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:12:9-40
 	android:icon
-		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:6:18-47
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:11:9-38
 	android:allowBackup
-		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:9:18-45
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:10:9-36
 	android:theme
-		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:10:18-71
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:14:9-62
 	android:logo
-		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:7:18-47
-activity#com.nulana.nchart3d.example.DifferentCharts.ChartingDemoActivity
-ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:11:9-19:20
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:13:9-38
+activity#com.nulana.nchart3d.example.activity.MainActivity
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:15:9-24:20
 	android:label
-		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:12:19-50
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:18:13-44
 	android:launchMode
-		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:13:19-50
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:19:13-44
 	android:configChanges
-		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:14:19-54
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:17:13-48
 	android:name
-		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:11:19-55
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:16:13-77
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:15:13-18:29
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:20:13-23:29
 action#android.intent.action.MAIN
-ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:16:17-68
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:17:17-76
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:17:27-74
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:22:27-74
+activity#com.nulana.nchart3d.example.activity.ChartingActivity
+ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:25:9-90
+	android:name
+		ADDED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml:25:19-87
 uses-sdk
 INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
 INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/8223059d5943ce21e1afa250307005f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/8223059d5943ce21e1afa250307005f8/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/14c324bc4b7fe7b498a3be211bbf2a30/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/14c324bc4b7fe7b498a3be211bbf2a30/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7cc9f0096c77762934f4d62877b24b00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7cc9f0096c77762934f4d62877b24b00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/76f595d8dd8744dabdb97bb265a5300b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/76f595d8dd8744dabdb97bb265a5300b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9d25c14f1d0b2db21f74340c3b224090/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9d25c14f1d0b2db21f74340c3b224090/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/188890ae8db2998c79bee99653cb9fd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/188890ae8db2998c79bee99653cb9fd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/108c322f3b30e9f2a0cb53468af9e733/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/108c322f3b30e9f2a0cb53468af9e733/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/684849fd9310b5441dd02a91a84dc881/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/684849fd9310b5441dd02a91a84dc881/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a48d3918aa244f1f4dede9024779cb6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a48d3918aa244f1f4dede9024779cb6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e902739081a1ce469c3401c6196241ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e902739081a1ce469c3401c6196241ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/830cac2663141d709cb5eeb594f62f6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/830cac2663141d709cb5eeb594f62f6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2152259540ec281eed32c35bebc0ae6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2152259540ec281eed32c35bebc0ae6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/be0e6a1e0abfe2c24058d689bf11f927/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/be0e6a1e0abfe2c24058d689bf11f927/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ff65bdbbf83477715fb2ddc230e76c68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ff65bdbbf83477715fb2ddc230e76c68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f376f8b981c882945cc14097628c9de7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f376f8b981c882945cc14097628c9de7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/df25b3ccb7bcfb068bb3abfe284100e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/df25b3ccb7bcfb068bb3abfe284100e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c48dd2c4835a5ce913717eb6e9bb97c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c48dd2c4835a5ce913717eb6e9bb97c1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/af23971ee451284f397b19d82ea4acb9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/af23971ee451284f397b19d82ea4acb9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9f2fd5fdfaca4cee01d11e7f574de86b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9f2fd5fdfaca4cee01d11e7f574de86b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b2211a37f07d2f07f6186090bbc85aa0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b2211a37f07d2f07f6186090bbc85aa0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1646b007c860433ac0d6180149038d41/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1646b007c860433ac0d6180149038d41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c391a2e0f7d3cd17c264f321a5a9c364/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c391a2e0f7d3cd17c264f321a5a9c364/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3db9f74611db0386860a364a7560be2b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3db9f74611db0386860a364a7560be2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4db36bf8c1a1da22634cd4635a3c1055/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/catherine.brainwilliam/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4db36bf8c1a1da22634cd4635a3c1055/AndroidManifest.xml:20:5-44
 INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
 INJECTED from /Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/src/main/AndroidManifest.xml
 	android:targetSdkVersion

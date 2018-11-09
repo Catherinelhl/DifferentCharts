@@ -83,6 +83,7 @@ id all
 id async
 id blocking
 id bottom
+id btn_self
 id center
 id center_horizontal
 id center_vertical

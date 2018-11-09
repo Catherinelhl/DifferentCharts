@@ -47,7 +47,8 @@ import com.nulana.nchart3d.example.differentCharts.AreaChartController;
 import com.nulana.nchart3d.example.differentCharts.BandChartController;
 import com.nulana.nchart3d.example.differentCharts.BarChartController;
 import com.nulana.nchart3d.example.differentCharts.BubbleChartController;
-import com.nulana.nchart3d.example.differentCharts.CandlestickChartController;
+import com.nulana.nchart3d.example.differentCharts.Candlestick2DChartController;
+import com.nulana.nchart3d.example.differentCharts.Candlestick3DChartController;
 import com.nulana.nchart3d.example.differentCharts.ColumnChartController;
 import com.nulana.nchart3d.example.differentCharts.FunnelChartController;
 import com.nulana.nchart3d.example.differentCharts.HeatmapChartController;
@@ -60,45 +61,8 @@ import com.nulana.nchart3d.example.differentCharts.RibbonChartController;
 import com.nulana.nchart3d.example.differentCharts.SequenceChartController;
 import com.nulana.nchart3d.example.differentCharts.SurfaceChartController;
 
-import java.util.Random;
-
 public class ChartingActivity extends BaseActivity {
     NChartView mNChartView;
-
-//    enum SeriesType {
-//        // 2D types.
-//        Column2D,
-//        Bar2D,
-//        Area2D,
-//        Pie2D,
-//        Doughnut2D,
-//        Line2D,
-//        Step2D,
-//        Bubble2D,
-//        Candlestick2D,
-//        OHLC2D,
-//        Band,               // Only in 2D
-//        Sequence,           // Only in 2D
-//        Radar,              // Only in 2D
-//        Heatmap,            // Only in 2D
-//        Funnel2D,
-//        // 3D types.
-//        Column3D,
-//        Bar3D,
-//        Area3D,
-//        Pie3D,
-//        Doughnut3D,
-//        Line3D,
-//        Ribbon,             // Only in 3D
-//        Step3D,
-//        Bubble3D,
-//        Surface,            // Only in 3D
-//        Candlestick3D,
-//        OHLC3D,
-//        Funnel3D
-//    }
-//
-//    SeriesType type;
 
     private String type;
 
@@ -133,9 +97,6 @@ public class ChartingActivity extends BaseActivity {
         // Paste your license key here.
         mNChartView.getChart().setLicenseKey(Constants.licenseKey);
 
-        // Switch this field to view all types of series.
-//        type = SeriesType.Column2D;
-//        boolean is3D = type.ordinal() >= SeriesType.Column3D.ordinal();
         boolean is3D = false;
 
         switch (type) {
@@ -166,9 +127,13 @@ public class ChartingActivity extends BaseActivity {
             }
             break;
 
-            case "Candlestick2D":
+            case "Candlestick2D": {
+                Candlestick2DChartController ctr = new Candlestick2DChartController(mNChartView);
+                ctr.updateData();
+            }
+            break;
             case "Candlestick3D": {
-                CandlestickChartController ctr = new CandlestickChartController(is3D, mNChartView);
+                Candlestick3DChartController ctr = new Candlestick3DChartController(mNChartView);
                 ctr.updateData();
             }
             break;

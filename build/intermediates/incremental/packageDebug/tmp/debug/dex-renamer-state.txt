@@ -1,4 +1,4 @@
-#Thu Nov 08 15:20:02 CST 2018
+#Fri Nov 09 15:05:30 CST 2018
 base.0=/Users/catherine.brainwilliam/AndroidOBTExample/NChart3D_Android/Samples/DifferentCharts/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

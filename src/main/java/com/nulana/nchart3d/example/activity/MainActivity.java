@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.view.View;
 
 import com.nulana.nchart3d.example.adapter.ChartTypeAdapter;
 import com.nulana.nchart3d.example.differentCharts.R;
@@ -40,6 +41,15 @@ public class MainActivity extends BaseActivity {
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false);
         rvChartType.setLayoutManager(linearLayoutManager);
         rvChartType.setAdapter(chartTypeAdapter);
+        findViewById(R.id.btn_self).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent();
+                intent.setClass(MainActivity.this, ChartingActivity.class);
+                intent.putExtra("type", chartTypes.get(0));
+                startActivity(intent);
+            }
+        });
         chartTypeAdapter.setItemSelectListener(new ChartTypeAdapter.ItemSelectListener() {
             @Override
             public void onItemSelect(int position) {
@@ -54,6 +64,7 @@ public class MainActivity extends BaseActivity {
 
     private List<String> getAllChartType() {
         String[] allType = {
+                "Candlestick2D",
                 // 2D types.
                 "Column2D",
                 "Bar2D",
@@ -63,7 +74,6 @@ public class MainActivity extends BaseActivity {
                 "Line2D",
                 "Step2D",
                 "Bubble2D",
-                "Candlestick2D",
                 "OHLC2D",
                 "Band",               // Only in 2D
                 "Sequence",           // Only in 2D
